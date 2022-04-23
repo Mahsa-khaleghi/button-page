@@ -1,0 +1,16 @@
+.container {
+    height: 45rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    width: 140px;
+    height: 70px;
+    font-weight: bold;
+    font-size: 30px;
+    background: linear-gradient(to left,#f18b9f,#9dadfe);
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
